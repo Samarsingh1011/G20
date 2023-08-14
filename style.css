@@ -1,0 +1,439 @@
+
+body{
+    /* background-image: url("G3.jpeg"); */
+    background: linear-gradient(155deg, rgba(0,0,0,1) 21%, rgba(131,50,50,1) 51%, rgba(35,40,39,1) 71%);
+    /* padding-top: 2px; */
+}
+header{
+    /* position: fixed; */
+}
+.navbar{
+    /* background-image: url("G4.jpeg"); */
+    border-radius: 25px;
+    height: 40px;
+    margin-bottom: 40px;
+    background: linear-gradient(155deg, rgba(75,78,77,1) 23%, rgba(131,50,50,1) 44%, rgba(56,13,13,1) 68%, rgba(56,13,13,1) 72%, rgba(23,3,3,1) 85%);
+    margin-left: 480px;
+    margin-right: 435px;    
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    margin: 16px 15px;
+    /* margin-bottom: 50px; */
+    /* padding-bottom: 100px; */
+    
+}
+.navbar ul{
+    overflow: auto;
+    position: absolute;
+    top: -14px;
+    /* padding-bottom: 100px; */
+}
+.navbar li a{
+    padding: 10px 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 19px;
+    margin-bottom: 40px;
+   
+    /* margin-top: 50px; */
+    /* padding-bottom: 100px; */
+}
+.searchh {
+    border-color: white;
+    border-radius: 15px;
+    position: absolute;
+    right: 46px;
+    top: 10px;
+    left:1363px;
+    width: 228px;
+    height: 30px;
+    color: black;
+  }
+#logo{
+    height: 60px;
+    width: 60px;
+    display: inline;
+    position:absolute;
+    top: 13px;
+    left: 505px;
+  }
+
+.top{
+    padding-left:20px;
+}
+/* .hmim{
+    width: 900px;
+    height: 600px;
+} */
+.hmin{
+    display: block;
+}
+.hmimm{
+    display: inline-block;
+    width: 600px;
+    height: 271.5px;
+}
+.hmim{
+    display: inline-block;
+    width: 480px;
+    height: 270px;
+    margin-top: 8px;
+}
+.hmimmm{
+    display: inline-block;
+    width: 556px;
+    height: 272px;
+  }
+.fp{
+    display: inline-block;
+    width: 700px;
+    border: 5px solid rgb(106, 7, 7);
+    /* border-color: black; */
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 30px;
+    box-shadow: 5px 5px 0 0 rgb(85, 17, 17), 10px 10px 0 0 rgb(135, 16, 30), 15px 15px 0 0 rgb(195, 41, 41);
+    margin-bottom: 100px;
+
+}
+.fppp{
+    padding-left: 4px;
+    color: white;
+}
+
+.rt{
+    /* background-image:  linear-gradient(to right bottom, #e5921c, #cdad3d, #bbc268, #b1d295, #b7ddbd, #b2e1c2, #ade6c7, #a7eace, #82ebb7, #60eb9a, #41e975, #23e646); */
+    border-radius: 10px;
+    /* background-image: linear-gradient(130deg,hsl(126deg 87% 41%) 0%, hsl(98deg 80% 52%) 18%, hsl(70deg 73% 63%) 32%,hsl(42deg 66% 74%) 42%,hsl(13deg 58% 85%) 51%,hsl(3deg 58% 84%) 59%,hsl(10deg 66% 72%) 68%,hsl(17deg 72% 59%) 78%, hsl(24deg 79% 46%) 89%, hsl(30deg 86% 34%) 100%); */
+    /* background-size:auto; */
+    background-image: url("u78.jpg");
+    background-size: cover;
+    
+}
+/* .{
+} */
+
+.ft {
+    display: inline-block;
+    width: 686px;
+    border: 5px solid rgb(106, 7, 7);
+    border-radius: 20px;
+    margin-left: 220px;
+    box-shadow: 5px 5px 0 0 rgb(85, 17, 17), 10px 10px 0 0 rgb(135, 16, 30), 15px 15px 0 0 rgb(195, 41, 41);
+  }
+.fttt{
+    padding-left: 10pxpx;
+    color:white;
+}
+.fe{
+    display: inline-block;
+    width: 700px;
+    border: 5px solid rgb(106, 7, 7);
+    /* border-color: black; */
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 18px;
+    margin-right: 200px;
+    box-shadow: 5px 5px 0 0 rgb(85, 17, 17), 10px 10px 0 0 rgb(135, 16, 30), 15px 15px 0 0 rgb(195, 41, 41) ;
+    margin-bottom: 100px;
+
+
+}
+.feee{
+    padding-left: 10pxpx;
+    color: white;
+    /* padding-top: 100px; */
+}
+
+.fr {
+	display: inline-block;
+	width: 682px;
+	border: 5px solid rgb(106, 7, 7);
+	/* border-color: black; */
+	border-radius: 20px;
+	margin-top: 100px;
+	margin-left: 18px;
+	box-shadow: 5px 5px 0 0 rgb(85, 17, 17), 10px 10px 0 0 rgb(135, 16, 30), 15px 15px 0 0 rgb(195, 41, 41);
+}
+.frrr{
+    color: white;
+}
+.as{
+    display: inline-block;
+    /* background-color: aqua; */
+    font-size: 60px;
+    height: 50px;
+    color: rgb(255, 255, 255);
+    /* background-image: url("G1.jpeg"); */
+}
+
+.last{
+    display: block;
+    height: 500px;
+    /* background-image: url("bv.jpg"); */
+    /* background-size: cover; */
+    background-color: white
+}
+.navbar li a:hover{
+    transition: background-color 1s;
+    /* background-color: antiquewhite; */
+    text-decoration: underline;
+    border-radius: 12px;
+}
+
+.lasimg{
+    display: inline-block;
+    margin-left: 20px;
+    padding:25px 15px;
+    padding-bottom: 4px;
+}
+#g{
+    display: block;
+    width: 70px;
+    height: 70px;
+
+}
+.divi {
+    background-size: cover;
+    height: 7px;
+    background-image: linear-gradient(90deg,#f09e4b,#e1dcd7,#e0e0e0,#d3dad2,#298921);
+    display: block;
+    /* background-color: black; */
+  }
+.o{
+    height: 991.2px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.con{
+    margin-top: 30px;
+}
+.con img{
+    margin: 10px 10px;
+}
+hr {
+
+    color: black;
+    border: 0;
+      border-top-width: 0px;
+      border-top-style: none;
+      border-top-color: currentcolor;
+    border-top: 1px solid;
+    opacity: .25;
+  }
+.float-start{
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.float-start a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+.float{
+    display: inline-block;
+    margin-left: 1325px;
+    font-size: 15px;
+}
+.devone{
+    margin-left: 10px;
+    display: inline-block;
+}
+.upoo{
+    margin-top: 40px;
+    margin-left: 10px;
+    border: 2px solid rgb(0, 105, 216);
+    border-radius: 4px;
+    height: 50px;
+    width: 60px;
+    color: blue;
+    font-size: 25px;
+}
+.m{
+    display: block;
+}
+.dev{
+    display: block;
+}
+.lassc{
+    display: inline-block;
+    width: 300px;
+    position: absolute;
+    text-decoration: none;
+
+}
+.lassc ul {
+    position: absolute;
+    left: -27px;
+    text-decoration: none;
+    top: 40px;
+
+
+  }
+.lassc ul li a{
+    text-decoration: none;
+    color: black;
+}
+.lassc li{
+    margin-bottom: 13px;
+}
+.lassca{
+    display: inline-block;
+    width: 300px;
+    position: absolute;
+    left: 460px;
+    text-decoration: none;
+
+}
+.lassca ul {
+    position: absolute;
+    left: -27px;
+    /* text-decoration: none; */
+    top: 40px;
+  }
+
+.lassca li a{
+    color: black;
+    text-decoration:  none;
+    /* margin-bottom: 10px; */
+}
+.upoo:hover{
+    cursor:pointer;
+    background-color: blue;
+    color: white;
+    border-radius: 6px;
+}
+
+.fty{
+    display: inline-block;
+    width: 380px;
+    position: absolute;
+    left: 460px;
+    text-decoration: none;
+    position: absolute;
+    left: 680px;
+    color: black;
+}
+.fty ul{
+    position: absolute;
+    top: 35px;
+    right: 220px;
+    
+}
+.fty ul li a{
+    color: black;
+    text-decoration: none;
+}
+
+.fth{
+    display: inline-block;
+    width: 380px;
+    position: absolute;
+    left: 460px;
+    text-decoration: none;
+    position: absolute;
+    left: 830px;
+    color: black;
+}
+.fth ul{
+    position: absolute;
+    top: 35px;
+    right: 220px;
+    
+}
+.fth ul li a{
+    color: black;
+    text-decoration: none;
+}
+.fte{
+    display: inline-block;
+    width: 380px;
+    position: absolute;
+    left: 460px;
+    text-decoration: none;
+    position: absolute;
+    left:  1004px;;
+    color: black;
+}
+.fte ul{
+    position: absolute;
+    top: 35px;
+    right: 220px;
+    
+}
+.fte ul li a{
+    color: black;
+    text-decoration: none;
+}
+
+.thim{
+    height: 700px;
+    display: block;
+    margin-bottom: 150px;
+
+}
+.thimmd{
+    display: inline-block;
+    padding-top: 2px;
+    width: 800px;
+    color: white;
+    font-size: 30px;
+    border: 4px solid mediumslateblue;
+    border-radius: 10px;
+    box-shadow: 10px 10px 0 0 rgb(44, 20, 96), 10px 10px 0 0 rgb(76, 45, 138), 15px 15px 0 0 rgb(109, 47, 200);
+    /* height: 600px; */
+
+}
+.thimmt{
+    display: inline-block;
+    padding-top: 20px;
+    width: 790px;
+
+    margin-left: 30px;
+    color: white;
+    font-size: 30px;
+    border: 4px solid mediumslateblue;
+    border-radius: 10px;
+    box-shadow: 10px 10px 0 0 rgb(44, 20, 96), 10px 10px 0 0 rgb(76, 45, 138), 15px 15px 0 0 rgb(109, 47, 200);
+
+
+}
+.rttrt{
+    margin-left: 20px;
+
+}
+.ER{
+    color: white;
+    font-size: 50px;
+}
+.tex{
+    text-decoration: none;
+}
+.tex:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.cont{
+    display: inline-block;
+    margin-left: 900px;
+    margin-top: 20px;
+    position: absolute;
+}
+.conta{
+    color: blue;
+    border-color: blue;
+    height: 35px;
+    width: 150px;
+    border-radius: 10px;
+    
+}
+.conta:hover{
+    background-color: blue;
+    color: white;
+}
+
